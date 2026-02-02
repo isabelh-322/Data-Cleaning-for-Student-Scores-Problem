@@ -1,5 +1,6 @@
 # Data-Cleaning-for-Student-Scores-Problem
 Real-world data is often messy, with missing values, incorrect entries, and duplicates. This makes analysis unreliable and can lead to wrong conclusions.
+
 Solution
 I cleaned a student dataset by correcting missing ages, invalid scores, and standardizing data types, and removing duplicates, so the data could be analyzed correctly.
 
